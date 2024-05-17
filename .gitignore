@@ -1,0 +1,12 @@
+*.exe
+*.out
+*.o
+*.pch
+*.gch
+*.DS_Store
+.DS_Store
+*MACOSX*
+*build-docker.sh
+*run-docker.sh
+*Dockerfile
+__pycache__
